@@ -10,7 +10,7 @@
 	<div>
 		<form action="/login.do" method="post">
 		<label for="name">Name:</label>
-		<input type="text" placeholder="Please Enter your Name:" name="name" id = "name"><br>
+		<input type="text" placeholder="Please Enter your Name HEre:" name="name" id = "name"><br>
 		<input type="submit" value="submit">
 		</form>
 	</div>
